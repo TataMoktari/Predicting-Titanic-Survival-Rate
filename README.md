@@ -1,1 +1,1 @@
-#predicting titanic survival rate
+# Predicting Titanic Survival Rate
